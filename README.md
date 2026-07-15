@@ -18,5 +18,3 @@ This project uses an ESP32 and a capacitive soil moisture sensor to monitor soil
 ## Software
 - Arduino IDE
 - C++
-
-  
